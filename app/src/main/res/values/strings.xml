@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternalStorageExample</string>
+    <string name="judul">Save Text to File</string>
+    <string name="input_text">Input text here…</string>
+    <string name="save_text">Save Text</string>
+    <string name="back">Kembali</string>
+    <string name="output_text">Output Text</string>
+</resources>
